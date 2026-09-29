@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.junyin11.cn/sitemap.xml
